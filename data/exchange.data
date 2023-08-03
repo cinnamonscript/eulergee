@@ -1,0 +1,26 @@
+n|year|name|MIC|domicile|city
+1|2022|New York Stock Exchange|XNYS|United States|New York City
+2|2022|Nasdaq|XNAS|United States|New York City
+3|2022|Shanghai Stock Exchange|XSHG|China|Shanghai
+4|2022|Euronext|XAMS|Europe|Amsterdan
+|||XBRU|Europe|Brussel
+|||XMSM|Europe|Dublin
+|||XLIS|Europe|Lisbon
+|||XMIL|Europe|Milan
+|||XOSL|Europe|Oslo
+|||XPAR|Europe|Paris
+5|2022|Japan Exchange Group|XJPX|Japan|Tokyo
+6|2022|Shenzhen Stock Exchange|XSHE|China|Shenzhen
+7|2022|Hong Kong Stock Exchange|XHKG|Hong Kong|Hong Kong
+8|2022|Bombay Stock Exchange|XBOM|India|Mumbai
+9|2022|London Stock Exchange|XLON|United Kingdom|London
+10|2022|National Stock Exchange|XNSE|India|Mumbai
+11|2022|Toronto Stock Exchange|XTSE|Canada|Toronto
+12|2022|Saudi Stock Exchange|XSAU|Saudi Arabia|Riyadh
+13|2022|SIX Swiss Exchange|XSWX|Switzerland|Zurich
+14|2022|Deutsche Börse AG|XFRA|Germany|Frankfurt
+15|2022|Australian Securities Exchange|XASX|Australia|Sydney
+16|2022|Korea Exchange|XKOS|South Korea|Seoul
+17|2022|Johannesburg Stock Exchange|XJSE|South Africa|Johannesburg
+18|2022|Taiwan Stock Exchange|XTAI|Taiwan|Taipei
+20|2022|B3 Brasil Bolsa Balcão|BVMF|Brazil|São Paulo
