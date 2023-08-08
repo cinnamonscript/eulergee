@@ -10,8 +10,8 @@ Your solutions should be mostly contained within the prefixed `generate_` method
 """
 
 # --- Fill in your details here ---
-FIRST_NAME = "Simon"
-LAST_NAME = "Lan"
+FIRST_NAME = ""
+LAST_NAME = ""
 
 # Gets current path
 CURRENT_DIR = pathlib.Path(__file__).parent
@@ -182,13 +182,6 @@ def generate_attribute_upload(
     security_master,
     full_stock_data,
 ) -> pandas.DataFrame:
-    # Load data
-    # security_upload = generate_security_upload()  # Section 1 Data
-    # exchange_data = get_exchange_data()
-    # attribute_data = get_attributes()
-    # security_master = get_security_master()
-    # full_stock_data = get_stock_list()
-
     import string
 
     def remove_small_letters_from_ticker(ticker):
